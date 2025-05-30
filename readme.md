@@ -1,0 +1,6 @@
+![](docs/overview.jpg)
+![](docs/forecasting.jpg)
+![](docs/simulator.jpg)
+![](docs/component_of_teaching.jpg)
+![](docs/component_of_research.jpg)
+![](docs/component_of_professionalism.jpg)
